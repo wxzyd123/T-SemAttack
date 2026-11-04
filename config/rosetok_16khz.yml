@@ -1,0 +1,12 @@
+sample_rate: 16000
+
+ROSETok.sample_rate: &sample_rate 16000
+ROSETok.encoder_dim: 64
+ROSETok.encoder_rates: [2, 4, 5, 8]
+ROSETok.latent_dim: 1280
+ROSETok.decoder_dim: 1536
+ROSETok.decoder_rates: [8, 5, 4, 2]
+ROSETok.n_codebooks: 9
+ROSETok.codebook_size: 1024
+ROSETok.codebook_dim: 8
+ROSETok.quantizer_dropout: 0.0

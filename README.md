@@ -6,7 +6,7 @@
 
 **NeurIPS 2026**
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-b31b1b)](TBD)
+[![Paper](https://img.shields.io/badge/Paper-PDF-b31b1b)](https://arxiv.org/abs/2611.14929)
 [![Demo](https://img.shields.io/badge/Audio-Demo-2563eb)](https://wxzyd123.github.io/t-semattack/)
 [![Weights](https://img.shields.io/badge/Hugging_Face-ROSETok-ffd21e)](https://huggingface.co/wxzyd123/ROSETok)
 
